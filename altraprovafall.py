@@ -74,19 +74,19 @@ randy3 = round(random.randrange(0, 720-50, 50)/50, 50)*50
 
 
 #lettura immagini pygame dello schermo, giocatore ecc...  del gioco
-sfondo = pygame.image.load('desktop/immagini/sfondos.png')
-gameover = pygame.image.load('desktop/immagini/gameover.jpg')
-haivinto = pygame.image.load('desktop/immagini/haivinto.png')
-giocatore = pygame.image.load('desktop/immagini/eroeufficiale.png')
-nemicouno = pygame.image.load('desktop/immagini/nemicoufficiale.png')
-nemicodue = pygame.image.load('desktop/immagini/nemicoufficiale.png')
-nemicotre = pygame.image.load('desktop/immagini/nemicoufficiale.png')
-nemicoquattro = pygame.image.load('desktop/immagini/nemicoufficiale.png')
-nemicocinque = pygame.image.load('desktop/immagini/nemicoufficiale.png')
-nemicosei = pygame.image.load('desktop/immagini/nemicoufficiale.png')
-puntiuno = pygame.image.load('desktop/immagini/moneta.png')
-puntidue = pygame.image.load('desktop/immagini/moneta.png')
-specialbonus = pygame.image.load('desktop/immagini/diamante.png')
+sfondo = pygame.image.load('sfondos.png')
+gameover = pygame.image.load('gameover.jpg')
+haivinto = pygame.image.load('haivinto.png')
+giocatore = pygame.image.load('eroeufficiale.png')
+nemicouno = pygame.image.load('nemicoufficiale.png')
+nemicodue = pygame.image.load('nemicoufficiale.png')
+nemicotre = pygame.image.load('nemicoufficiale.png')
+nemicoquattro = pygame.image.load('nemicoufficiale.png')
+nemicocinque = pygame.image.load('nemicoufficiale.png')
+nemicosei = pygame.image.load('nemicoufficiale.png')
+puntiuno = pygame.image.load('moneta.png')
+puntidue = pygame.image.load('moneta.png')
+specialbonus = pygame.image.load('diamante.png')
 
 
 '''
