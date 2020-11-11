@@ -4,7 +4,7 @@
 - Creatori: Paolo Lo Casale, Mattia Montanari, Riccardo Conti (2*F LICEO SCIENTIFICO SPALLANZANI RE)
 
 # Per funzionare servono...
-- Python e Pygame
+- Python e Pygame ("ovviamente" git e vs code)
 
 # Procedimenti per il download:
 -Scaricare il file tramite CODE --) DOWNLOAD ZIP 
