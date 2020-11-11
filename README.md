@@ -1,6 +1,6 @@
 # gioco-test-estate
 
-# GIOCO 
+# Gioco estate pygame
 - Creatori: Paolo Lo Casale, Mattia Montanari, Riccardo Conti (2*F LICEO SCIENTIFICO SPALLANZANI RE)
 
 # Per funzionare servono...
